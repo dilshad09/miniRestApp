@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/miniRestApp/static/css/main.39a36ccc.css",
+    "main.js": "/miniRestApp/static/js/main.d59c2517.js",
+    "index.html": "/miniRestApp/index.html",
+    "main.39a36ccc.css.map": "/miniRestApp/static/css/main.39a36ccc.css.map",
+    "main.d59c2517.js.map": "/miniRestApp/static/js/main.d59c2517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a36ccc.css",
+    "static/js/main.d59c2517.js"
+  ]
+}
